@@ -1,4 +1,4 @@
- 👋 Hey there! I'm Anushka
+ <h1 align="center"><b>👋 Hey there! I'm Anushka</b></h1>
 
 Welcome to my GitHub — fueled by curiosity, powered by code.
 I’m a software developer who loves creating intelligent applications, optimizing data systems, and exploring the future of developer-focused tools.
@@ -23,14 +23,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h2>💻 Tech Stack</h2>
 
-📊 GitHub Stats
+<!-- Core & AI -->
+[![Image Processing](https://img.shields.io/badge/Image%20Processing-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Digital_image_processing)
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![GAN Model](https://img.shields.io/badge/GAN%20Model-FF4081?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+[![Diffusion Model](https://img.shields.io/badge/Diffusion%20Model-1ABC9C?style=for-the-badge)](https://en.wikipedia.org/wiki/Diffusion_model)
+
+<!-- Databases -->
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<!-- Big Data -->
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+
+<!-- Python Libraries -->
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
+<!-- Tools -->
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaJS510&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnushkaJS510&theme=radical)
